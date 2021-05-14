@@ -29,9 +29,11 @@
 - Out of the total visitors who visited our website, what % made a purchase?
 ### 2) Data Analysis locally
 - Use the `cereal.csv` dataset provided for analysis
+- Use Python or SQL
+### Answer the followin
 - Show the first 10 rows
-- Show all the columns
+- Show all the columns *for python only*
 - Does an increase in sugar lead to a higher rating?
-- Visualize 
-
-
+- Visualize *for python only*
+- Show the top 10 cereals with the major combination of sugars and carbo.
+- Show the average of sodium among cereals with a rating higher than 38.

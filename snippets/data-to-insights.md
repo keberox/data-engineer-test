@@ -25,4 +25,6 @@ FROM visitors, purchasers
 
 
 ### Out of the total visitors who visited our website, what % made a purchase?
-The result: 2.69%
+- Total:      741,721  
+- Purchasers:  20,015   
+- The result:   2.69%
