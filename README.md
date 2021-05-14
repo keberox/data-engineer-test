@@ -30,7 +30,7 @@
 ### 2) Data Analysis locally
 - Use the `cereal.csv` dataset provided for analysis
 - Use Python or SQL
-### Answer the followin
+### Answer the following:
 - Show the first 10 rows
 - Show all the columns *for python only*
 - Does an increase in sugar lead to a higher rating?
