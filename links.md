@@ -1,0 +1,1 @@
+- [Google-provided streaming templates](https://cloud.google.com/dataflow/docs/guides/templates/provided-streaming)
